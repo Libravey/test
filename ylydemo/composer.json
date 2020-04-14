@@ -1,0 +1,12 @@
+{
+    "name": "acme/blog",
+    "repositories": [
+        {
+            "type": "GIT",
+            "url": "https://gitee.com/qqqqqqqqw/test.git"
+        }
+    ],
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
+}
